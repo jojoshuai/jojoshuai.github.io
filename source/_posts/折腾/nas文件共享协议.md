@@ -24,10 +24,9 @@
     速度快，作为标配，读写速度相对smb更快一些
 
 
-
 3. webdav协议
 
-    基于 HTTP1.1 协议的拓展升级版（Web-based Distributed Authoring and Versioning），可以很方便的跨越网关、防火墙。使得在公网上访问特别简单，并且通过https的公网访问拥有非常棒的安全性。
+    基于 HTTP1.1 协议的拓展升级版（Web-based Distributed Authoring and Versioning），可以很方便的跨越网关、防火墙。使得在公网上访问特别简单，并且通过https的公网访问拥有非常棒的安全性。·
 
     速度慢
 
